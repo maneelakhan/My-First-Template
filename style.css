@@ -1,0 +1,51 @@
+
+body{
+    border:80px solid gray;
+   
+    
+}
+    * {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    background-image: url(templet-2.jpg);
+    } 
+#navbar {
+    
+    height: 60px;
+
+}
+a {
+    margin-right: 180px;
+    margin-left: 100px;
+    text-decoration: none;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-style: italic;
+     line-height: 80px;
+}
+
+#logo-2{
+  
+        width: 80px;               
+        padding:10px;              
+        font-size: 12px;
+        font-family:'Franklin Gothic Medium';
+        border: 3px solid ;
+        border-radius: 14px;               
+}
+
+button {
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    width: 70px;
+    border-radius: 10px;
+    border: 1.5px solid ;
+} 
+#navbar-2 {
+    /* display: inline-block; */
+    margin-left: 200px;
+    height: 510px;
+}
+footer {
+    text-align: center;
+}
